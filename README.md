@@ -39,7 +39,7 @@ pip install Pillow requests
 1. Clone or download the repository.
 2. Navigate to the project directory and run the script:
    ```bash
-   python qr_code_generator.py
+   python main.py
    ```
 3. Enter the desired data into the **Enter Data** field.
 4. Specify the dimensions in the **Enter Dimensions** field (e.g., `300x300`). Maximum size allowed is `750x750`.
